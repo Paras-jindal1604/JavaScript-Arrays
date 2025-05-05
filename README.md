@@ -28,21 +28,21 @@ Unlike low-level languages like C/C++, JavaScript arrays are objects with specia
 
 let fruits = ['apple', 'banana', 'cherry'];
 
-console.log(fruits); // ['apple', 'banana', 'cherry']
+console.log(fruits);           // ['apple', 'banana', 'cherry']
 
 
 #### ✅ Using the Array Constructor
 
 let numbers = new Array(1, 2, 3);
 
-console.log(numbers); // [1, 2, 3]
+console.log(numbers);         // [1, 2, 3]
 
 
 #### ⚠️ Caution: Single Argument with new Array()
 
 let emptyArray = new Array(5); 
 
-console.log(emptyArray); // [ <5 empty items> ]
+console.log(emptyArray);       // [ <5 empty items> ]
 
 
 ### 🧠 Why Elements Aren’t Stored Contiguously
