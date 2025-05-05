@@ -1,6 +1,6 @@
-# 📚 JavaScript Arrays: A Comprehensive Guide
+# 📚 JavaScript Arrays
 
-Welcome to this repository! This guide is dedicated to helping you understand arrays in JavaScript — from basic creation to multi-dimensional usage.
+Welcome to this repository! This will help you understand arrays in JavaScript — from basic creation to multi-dimensional usage.
 
 ## 📌 Table of Contents
 
