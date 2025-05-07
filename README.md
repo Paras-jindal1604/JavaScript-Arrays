@@ -70,7 +70,13 @@ Arrays can store elements of different data types.
 ### ✅ Conclusion
 
 JavaScript arrays are versatile and powerful — capable of handling complex structures like 2D and 3D arrays. 
+
 Despite not being truly contiguous like in some other languages, they provide all the tools you need for flexible, dynamic data manipulation.
+
+
+### Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 
 ### Contact
