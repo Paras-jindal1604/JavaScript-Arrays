@@ -84,4 +84,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 Thanks for checking out this project! If you found it useful, consider giving it a ⭐️.
 
-Created by Paras Jindal(https://github.com/Paras-jindal1604) – feel free to reach out!
+Created by Paras Jindal (https://github.com/Paras-jindal1604) – feel free to reach out!
