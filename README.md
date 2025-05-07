@@ -73,6 +73,9 @@ JavaScript arrays are versatile and powerful — capable of handling complex str
 Despite not being truly contiguous like in some other languages, they provide all the tools you need for flexible, dynamic data manipulation.
 
 
-### 🙌 Contributing
+### Contact
 
-Feel free to fork this repo or contribute more array examples!
+
+Thanks for checking out this project! If you found it useful, consider giving it a ⭐️.
+
+Created by Paras Jindal(https://github.com/Paras-jindal1604) – feel free to reach out!
